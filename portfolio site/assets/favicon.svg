@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100" height="100" rx="16" fill="#1b2838"/>
-  <rect x="4" y="4" width="92" height="92" rx="13" fill="none" stroke="#66c0f4" stroke-width="4"/>
-  <text x="50" y="68" text-anchor="middle" font-family="monospace" font-size="46" font-weight="bold" fill="#66c0f4">HK</text>
-</svg>
